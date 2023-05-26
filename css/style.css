@@ -18,7 +18,7 @@ body{
     width: 3rem;
     text-decoration: none;
     color: #fff;
-    background-color: #25D366;
+    background-color: #992d32;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -27,7 +27,7 @@ body{
     transition: background-color 0.3s ease;
 }
 .whatsapp-button:hover {
-    background-color: #128C7E;
+    background-color: #000000;
 }
 :root {
     --primary: #D81324;
