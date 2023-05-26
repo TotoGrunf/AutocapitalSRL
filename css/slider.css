@@ -28,9 +28,9 @@
 
 #slider{
     border-radius: 0px;
-background: linear-gradient(225deg, #3e3e3e, #4a4a4a);
-box-shadow:  -20px 20px 0px #1c1c1c,
-             20px -20px 0px #6e6e6e;
+background: linear-gradient(225deg, #939393, #aeaeae);
+box-shadow:  -20px 20px 0px #414141,
+             20px -20px 0px #ffffff;
 
 }
 
