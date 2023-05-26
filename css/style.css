@@ -1,6 +1,9 @@
 /********** Template CSS **********/
 body{
-    background-color: #303030;
+    border-radius: 0px;
+    background: #dfdddd;
+    box-shadow:  33px 33px 91px #c0bebe,
+                 -33px -33px 91px #fefcfc;
 }
 
 :root {
