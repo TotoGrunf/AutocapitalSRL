@@ -415,3 +415,13 @@ body{
     padding-right: 0;
     border-right: none;
 }
+
+.banner-container {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.banner-container img {
+    width: 100%;
+    height: auto;
+}
