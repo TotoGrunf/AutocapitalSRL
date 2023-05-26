@@ -6,6 +6,29 @@ body{
                  -33px -33px 91px #fefcfc;
 }
 
+.meloamaso{
+    padding: 0.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.whatsapp-button {
+    height: 3rem;
+    width: 3rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #25D366;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    transition: background-color 0.3s ease;
+}
+.whatsapp-button:hover {
+    background-color: #128C7E;
+}
 :root {
     --primary: #D81324;
     --secondary: #0B2154;
